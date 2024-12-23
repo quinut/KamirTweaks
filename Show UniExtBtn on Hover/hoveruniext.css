@@ -1,0 +1,15 @@
+/* 숨김 */
+#unified-extensions-button {
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+}
+
+/* 호버 */
+#unified-extensions-button:hover {
+  opacity: 1;
+}
+
+/* 메뉴 아이콘 변경 */
+/* #PanelUI-menu-button {
+  list-style-image: url('svg/quinutmonotoneq.png') !important;
+} */
