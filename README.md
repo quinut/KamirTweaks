@@ -17,10 +17,12 @@ Personal custom CSS for [Zen Browser](https://github.com/zen-browser).
 
 ## Centered Bookmark
 ![Centered Bookmark](showcaseImage/bookmark.png)
+
 Inspired by/Used code of [n7itro's Bookmark Toolbar Tweaks](https://github.com/n7itro/Zen-Themes/tree/main/Bookmark%20Toolbar%20Tweaks)
 
 ## Changed Menu Icon
 ![Menu Icon](showcaseImage/menuicon.png)
+
 You can alter modules/img/menuIcon.png to change this.
 
 ## Show Unified Extensions Button only when hovered
@@ -28,6 +30,7 @@ You can alter modules/img/menuIcon.png to change this.
 
 ## Traffic Light-Styled Control Box
 ![Control Box](showcaseImage/traffic.png)
+
 Shows color when hovered
 
 Yellow - Minimize
@@ -36,6 +39,7 @@ Red - Close
 
 ## Shadow only Essential/Pinned tab
 ![Essential/Pinned tab](showcaseImage/essential.png)
+
 It gives clean look... in my opinion?
 
 
