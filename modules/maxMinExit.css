@@ -1,0 +1,27 @@
+.titlebar-button > .toolbarbutton-icon {
+  list-style-image: none;
+  border-radius: 10px;
+  transition: 0.2s ease;
+}
+
+.titlebar-button:hover > .toolbarbutton-icon {
+  background: #3aea4994 !important;
+  border: 1px solid #3aea49 !important;
+}
+.titlebar-min:hover > .toolbarbutton-icon {
+  background: #fac53794 !important;
+  border: 1px solid #fac537 !important;
+}
+.titlebar-close:hover > .toolbarbutton-icon {
+  background: #f34f5694 !important;
+  border: 1px solid #f34f56 !important;
+}
+.titlebar-button > .toolbarbutton-icon {
+  background: #ffffff17 !important;
+  border: 1px solid #ffffff21 !important;
+}
+
+.titlebar-button {
+  background: none !important;
+  padding: 8px 8px !important;
+}

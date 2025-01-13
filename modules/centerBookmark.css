@@ -1,0 +1,25 @@
+/* center bookmarks */
+#PlacesToolbarItems {
+  justify-content: center;
+}
+
+#personal-bookmarks toolbarbutton.bookmark-item {
+  background-color: none !important;
+}
+/* hide folder icon */
+.bookmark-item[container="true"] .toolbarbutton-icon {
+  display: none;
+}
+
+#personal-bookmarks toolbarbutton.bookmark-item {
+  background-color: none !important;
+}
+#personal-bookmarks #PlacesToolbarItems>toolbarbutton.bookmark-item:not(.subviewbutton, [disabled="true"], [open]):hover {
+  filter: brightness(1.5) 
+}
+#personal-bookmarks #PlacesToolbarItems>toolbarbutton.bookmark-item:not(.subviewbutton, [disabled="true"]):hover:active {
+  filter: brightness(3) 
+}
+#personal-bookmarks #PlacesToolbarItems>toolbarbutton.bookmark-item[open="true"] {
+  filter: brightness(3) 
+}
