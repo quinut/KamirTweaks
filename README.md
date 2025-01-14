@@ -1,6 +1,6 @@
 # KamirTweaks
 ![Overview Image](showcaseImage/overview.png)
-*Used with [Natsumi Browser](https://github.com/greeeen-dev/natsumi-browser/tree/main), [Pineapple Fried](https://github.com/TheBigWazz/Pineapple-Fried), [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)*
+*Used with [Natsumi Browser](https://github.com/greeeen-dev/natsumi-browser/), [Pineapple Fried](https://github.com/TheBigWazz/Pineapple-Fried), [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)*
 
 
 Personal custom CSS for [Zen Browser](https://github.com/zen-browser).
