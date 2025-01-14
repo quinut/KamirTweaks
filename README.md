@@ -34,7 +34,9 @@ You can alter modules/img/menuIcon.png to change this.
 Shows color when hovered
 
 Yellow - Minimize
+
 Green - Maximize
+
 Red - Close
 
 ## Shadow only Essential/Pinned tab
