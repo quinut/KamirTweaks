@@ -40,6 +40,8 @@ Green - Maximize
 
 Red - Close
 
+*This is not my original CSS. I really want to credit original creator but I couldn't find. Please let me know original creater if you know.*
+
 ## Shadow only Essential/Pinned tab
 ![Essential/Pinned tab](showcaseImage/essential.png)
 
