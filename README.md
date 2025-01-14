@@ -1,12 +1,13 @@
 # KamirTweaks
 ![Overview Image](showcaseImage/overview.png)
-*Used with [Natsumi Browser](https://github.com/greeeen-dev/natsumi-browser/), [Pineapple Fried](https://github.com/TheBigWazz/Pineapple-Fried), [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)*
+*Used with [Natsumi Browser](https://github.com/greeeen-dev/natsumi-browser), [Pineapple Fried](https://github.com/TheBigWazz/Pineapple-Fried), [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)*
 
 
 Personal custom CSS for [Zen Browser](https://github.com/zen-browser).
 
 
 # How to install
+1. Download latest release from [Here](https://github.com/quinut/KamirTweaks/releases)
 2. Extract and put KamirTweaks folder into \<profile\>/chrome folder
 3. Add the following line  of code to userChrome.css
 ```css
